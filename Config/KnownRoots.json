@@ -1,0 +1,205 @@
+{
+    "BuiltInPlugins": {
+        "ExtractTo": "BuiltInPlugins",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "ApplicationConfig": {
+        "ExtractTo": "ApplicationConfig",
+        "BadManifest": true,
+        "MinVersion": 532
+    },
+
+    "BuiltInStandalonePlugins": {
+        "ExtractTo": "BuiltInStandalonePlugins",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-qt_translations": {
+        "ExtractTo": "content/qt_translations",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-platform-fonts": {
+        "ExtractTo": "PlatformContent/pc/fonts",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-terrain": {
+        "ExtractTo": "PlatformContent/pc/terrain",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-textures3": {
+        "ExtractTo": "PlatformContent/pc/textures",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "extracontent-translations": {
+        "ExtractTo": "ExtraContent/translations",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+    
+    "extracontent-luapackages": {
+        "ExtractTo": "ExtraContent/LuaPackages",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "extracontent-textures": {
+        "ExtractTo": "ExtraContent/textures",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "extracontent-scripts": {
+        "ExtractTo": "ExtraContent/scripts",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+    
+    "extracontent-models": {
+        "ExtractTo": "ExtraContent/models",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-sky": {
+        "ExtractTo": "content/sky",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-fonts": {
+        "ExtractTo": "content/fonts",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-avatar": {
+        "ExtractTo": "content/avatar",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-models": {
+        "ExtractTo": "content/models",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-sounds": {
+        "ExtractTo": "content/sounds",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-configs": {
+        "ExtractTo": "content/configs",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-api-docs": {
+        "ExtractTo": "content/api_docs",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-textures2": {
+        "ExtractTo": "content/textures",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "content-studio_svg_textures": {
+        "ExtractTo": "content/studio_svg_textures",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "studiocontent-models": {
+        "ExtractTo": "StudioContent/models",
+        "BadManifest": false,
+        "MinVersion": 680
+    },
+
+    "studiocontent-textures": {
+        "ExtractTo": "StudioContent/textures",
+        "BadManifest": false,
+        "MinVersion": 680
+    },
+    
+    "Qml": {
+        "ExtractTo": "Qml",
+        "BadManifest": true,
+        "MinVersion": 0
+    },
+
+    "ssl": {
+        "ExtractTo": "ssl",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "Plugins": {
+        "ExtractTo": "Plugins",
+        "BadManifest": true,
+        "MinVersion": 0
+    },
+
+    "shaders": {
+        "ExtractTo": "shaders",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "StudioFonts": {
+        "ExtractTo": "StudioFonts",
+        "BadManifest": true,
+        "MinVersion": 0
+    },
+
+    "redist": {
+        "ExtractTo": "",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "WebView2": {
+        "ExtractTo": "",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "Libraries": {
+        "ExtractTo": "",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "LibrariesQt5": {
+        "ExtractTo": "",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+
+    "RobloxStudio": {
+        "ExtractTo": "",
+        "BadManifest": false,
+        "MinVersion": 0
+    },
+    
+    "WebView2RuntimeInstaller": {
+        "ExtractTo": "",
+        "BadManifest": false,
+        "MinVersion": 0
+    }
+}
